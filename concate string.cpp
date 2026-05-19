@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<string.h>
+#include<string.h>        //program to concatenate strings
 int main()
    {
    	char ar[6]="hello",no[6]="world";
